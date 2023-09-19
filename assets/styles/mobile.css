@@ -1,0 +1,11 @@
+@media (max-width: 900px) {
+  .main_div > div:nth-child(2) {
+    padding-right: 60px;
+  }
+  .main_div > div:nth-child(2) img {
+    width: 300px;
+  }
+  .main_div {
+    flex-direction: column-reverse;
+  }
+}
